@@ -46,12 +46,3 @@ python tkcvchv4.py
 
 ## Dependencies
 See `requirements.txt` for a complete list of Python package dependencies.
-
-## Contributing
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-[Insert your license here, e.g., MIT License]
-
-## Disclaimer
-This tool is for research and educational purposes. Ensure compliance with local regulations when using satellite imagery.
